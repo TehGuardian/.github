@@ -1,4 +1,4 @@
-![head.png](https://i.imgur.com/TYLJbjH.jpeg)
+![head.png](https://i.imgur.com/txfHvk7.png)
 #
 
 <p align="center">
