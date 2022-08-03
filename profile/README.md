@@ -2,12 +2,12 @@
 #
 
 <p align="center">
-<a href="https://www.discord.gg/cHd2cvMYZF"><img src="https://img.shields.io/discord/979284356730327070?color=d63f50&label=Our%20Discord%21&labelColor=000000&logo=discord&logoColor=FFFFFF&style=flat-square"></a>
+<a href="https://discord.gg/FJVc4cFy6R"><img src="https://img.shields.io/discord/979284356730327070?color=d63f50&label=Our%20Discord%21&labelColor=000000&logo=discord&logoColor=FFFFFF&style=flat-square"></a>
 <a href="https://github.com/priyanshumay"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MB-Development2022&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
 </p><br>
 
 <p align="center">
-<a href="https://github.com/MB-Development2022/mb-handling"><img src="https://img.shields.io/badge/-Latest%20Release-000000?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://https://github.com/TehGuardian/qb-truckerjob"><img src="https://img.shields.io/badge/-Latest%20Release-000000?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 #
