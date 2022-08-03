@@ -6,9 +6,9 @@
 <a href="https://github.com/priyanshumay"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MB-Development2022&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
 </p><br>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://https://github.com/TehGuardian/qb-truckerjob"><img src="https://img.shields.io/badge/-Latest%20Release-000000?style=flat-square&logo=github&logoColor=white"></a>
-</p>
+</p> -->
 
 #
 
