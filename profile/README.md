@@ -4,12 +4,11 @@
 <p align="center">
 <a href="https://discord.gg/FJVc4cFy6R"><img src="https://img.shields.io/discord/979284356730327070?color=d63f50&label=Our%20Discord%21&labelColor=000000&logo=discord&logoColor=FFFFFF&style=flat-square"></a>
 <a href="https://github.com/priyanshumay"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=MB-Development2022&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
-<a href="https://zap-hosting.com/a/2fde2484fa5e061076aaefb6b5abc54f1a99f392"><img src="https://zap-hosting.com/interface/download/images.php?type=affiliate&id=250538" alt="ZAP-Hosting Gameserver and Webhosting"></a>
 </p><br>
 
-<!-- <p align="center">
-<a href="https://https://github.com/TehGuardian/qb-truckerjob"><img src="https://img.shields.io/badge/-Latest%20Release-000000?style=flat-square&logo=github&logoColor=white"></a>
-</p> -->
+<p align="center">
+<a href="https://zap-hosting.com/a/2fde2484fa5e061076aaefb6b5abc54f1a99f392"><img src="https://zap-hosting.com/interface/download/images.php?type=affiliate&id=250538" alt="ZAP-Hosting Gameserver and Webhosting"></a>
+</p>
 
 #
 
