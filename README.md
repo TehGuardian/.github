@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://discord.gg/FJVc4cFy6R"><img src="https://img.shields.io/discord/979284356730327070?color=d63f50&label=Our%20Discord%21&labelColor=000000&logo=discord&logoColor=FFFFFF&style=flat-square"></a>
-<a href="https://github.com/priyanshumay"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=TehGuardian&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
+<a href="https://github.com/TehGuardian"><img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=TehGuardian&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=d63f50&style=flat-square"></a>
 </p><br>
 
 <p align="center">
