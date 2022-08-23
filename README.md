@@ -23,7 +23,6 @@ We have lots to offer and are constantly evolving.
 
 <h2 align="center"> Meet the Author:</h2>
 <p align="center">
-<a href=https://ko-fi.com/guardian_><img width="420" src=https://github-readme-stats.vercel.app/api?username=guardian_&count_private=true&include_all_commits=true&show_icons=true&title_color=ff4b60&text_color=ffffff&icon_color=ff4b60&hide_border=false&bg_color=000000&layout=compact&hide_title=false&hide_rank=false><a>
 <a href=https://github.com/TehGuardian><img width="420" src=https://github-readme-stats.vercel.app/api?username=TehGuardian&count_private=true&include_all_commits=true&show_icons=true&title_color=ff4b60&text_color=ffffff&icon_color=ff4b60&hide_border=false&bg_color=000000&layout=compact&
 </p>
 
