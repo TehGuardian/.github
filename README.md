@@ -14,7 +14,7 @@
 
 <h2 align="center"> About Us:</h2>
 <p align="center">
-We Creative Minds are currently looking for new players to grow our community 
+We at Creative Minds are currently looking for new players to grow our community 
 and build a strong player base. With Active Devs focused on community feedback. 
 We have lots to offer and are constantly evolving.
 </p>
